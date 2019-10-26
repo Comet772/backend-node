@@ -1,0 +1,11 @@
+{
+    "eslint.options": { "configFile": "C:/mydirectory/.eslintrc.json" }
+  }
+
+{
+    "eslint.lintTask.options": "-c C:/mydirectory/.eslintrc.json --ignore-path C:/mydirectory/.eslintignore ."
+
+  }
+  
+  
+  
